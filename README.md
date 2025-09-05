@@ -1,4 +1,4 @@
-# Punarnavah - Turning Waste into Opportunity
+# ECOHUB - Turning Waste into Opportunity
 
 A sustainable waste management platform connecting households, artisans, and municipalities to promote circular economy and efficient waste utilization.
 
@@ -96,7 +96,7 @@ npm run dev
 
 ## 🤝 Contributing
 
-I welcome contributions to Punarnavah! Please feel free to submit issues and pull requests.
+I welcome contributions to Ecohub! Please feel free to submit issues and pull requests.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -106,6 +106,7 @@ I welcome contributions to Punarnavah! Please feel free to submit issues and pul
 
 
 #
+
 
 
 
