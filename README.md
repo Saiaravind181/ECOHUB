@@ -38,7 +38,7 @@ A sustainable waste management platform connecting households, artisans, and mun
 
 ## ⚙️ Architecture
 
-![image](https://github.com/user-attachments/assets/ab3f2117-db60-443d-b718-c9b16bb34cb0)
+![image](https://excalidraw.com/#json=fTyRZNfiW1--wuYANFAiz,pQO7Ej1XUZr3KE-NcKP-LA)
 
 ### Setting up Client
 
@@ -105,3 +105,4 @@ I welcome contributions to Punarnavah! Please feel free to submit issues and pul
 
 
 #
+
